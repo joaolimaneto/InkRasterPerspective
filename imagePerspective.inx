@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
 <_name>Perspective</_name>
 	<id>org.test.filter.imagePerspective</id>
@@ -6,7 +6,7 @@
     <effect needs-live-preview="true">
         <object-type>all</object-type>
 		<effects-menu>
-			<submenu _name="Raster Perspective" />
+			<submenu name="Raster"/>
 		</effects-menu>
 	</effect>
 	<script>
